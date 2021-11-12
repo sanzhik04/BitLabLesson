@@ -1,0 +1,6 @@
+Cola
+50
+Meat
+500
+Paper
+60
